@@ -1,0 +1,30 @@
+C:\תכנות\C#\Html Serializer\Html Serializer\obj\Debug\Html Serializer.csproj.AssemblyReference.cache
+C:\תכנות\C#\Html Serializer\Html Serializer\obj\Debug\Html Serializer.csproj.CoreCompileInputs.cache
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\Html Serializer.exe.config
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\Html Serializer.exe
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\Html Serializer.pdb
+C:\תכנות\C#\Html Serializer\Html Serializer\obj\Debug\Html Serializer.exe
+C:\תכנות\C#\Html Serializer\Html Serializer\obj\Debug\Html Serializer.pdb
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\JSONFiles\HtmlTags.json
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\JSONFiles\HtmlVoidTags.json
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Buffers.dll
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.IO.Pipelines.dll
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Memory.dll
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Numerics.Vectors.dll
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Text.Encodings.Web.dll
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Text.Json.dll
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.ValueTuple.dll
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Buffers.xml
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.IO.Pipelines.xml
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Memory.xml
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Numerics.Vectors.xml
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Text.Encodings.Web.xml
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Text.Json.xml
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\תכנות\C#\Html Serializer\Html Serializer\bin\Debug\System.ValueTuple.xml
+C:\תכנות\C#\Html Serializer\Html Serializer\obj\Debug\Html Ser.AFC5A897.Up2Date
